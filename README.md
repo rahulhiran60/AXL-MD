@@ -11,6 +11,9 @@
   <a aria-label="Join our chats" href="https://chat.whatsapp.com/HbekCMezwdr6bZXFjTNkLH" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
+ 
+<p align="center">
+  
 <a href="https://api.whatsapp.com/send?phone=+919539412641&text=*_From+Github🍒_*" target="blank">
 <img alt="whatsapp" src="https://img.shields.io/badge/Contact Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
