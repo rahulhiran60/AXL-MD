@@ -18,7 +18,7 @@ module.exports = {
   botname:   process.env.BOT_NAME === undefined ? '𝘼𝙓𝙇 - 𝙈𝘿 𖤍' : process.env.BOT_NAME,
   ownername: process.env.OWNER_NAME === undefined ? ' 𝘈𝘑𝘟𝘈𝘓' : process.env.OWNER_NAME,
   sessionName:  process.env.SESSION_ID === undefined ? false : process.env.SESSION_ID,
-  author:  process.env.PACK_INFO.split(";")[0] === undefined ? '𝘼𝙓𝙇 - 𝙈𝘿 𖤍; 𝘈𝘑𝘟𝘈𝘓-SER' : process.env.PACK_INFO.split(";")[0],
+  author: '𝘼𝙓𝙇 - 𝙈𝘿 𖤍; 𝘈𝘑𝘟𝘈𝘓-SER',
   auto_read_status :  process.env.AUTO_READ_STATUS === undefined ? false : process.env.AUTO_READ_STATUS,
   packname:  process.env.PACK_INFO.split(";")[1] === undefined ? '𝘼𝙓𝙇 - 𝙈𝘿 𖤍; 𝘈𝘑𝘟𝘈𝘓-SER' : process.env.PACK_INFO.split(";")[1],
   autoreaction:  process.env.AUTO_REACTION  === undefined ? false : process.env.AUTO_REACTION ,
