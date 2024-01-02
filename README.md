@@ -14,7 +14,8 @@
  
 <p align="center">
   
-##CONTACT
+# CONTACT - 𝘼𝙓𝙇 𖤍
+<p align="center">
 <a href="https://api.whatsapp.com/send?phone=+919539412641&text=*_From+Github🍒_*" target="blank">
 <img alt="whatsapp" src="https://img.shields.io/badge/Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
