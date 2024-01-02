@@ -20,3 +20,40 @@
 <a href="https://api.whatsapp.com/send?phone=+919539412641&text=*_From+Github🍒_*" target="blank">
 <img alt="whatsapp" src="https://img.shields.io/badge/Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
+  
+## _Multi device whatsapp_
+  
+<div align="center">
+   
+<a href="https://api.whatsapp.com/send?phone=+919539412641&text=*Developing!+wait+and+seeee😌👣🍒*"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR" height="112" width="300" /></a><br>
+
+
+
+<div>
+<br>
+
+## Deploy to Heroku ↓
+
+<a href="https://api.whatsapp.com/send?phone=+919539412641&text=*Developing!+wait+and+seeee😌👣🍒*" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="112" width="310" /></a>
+  <div>
+<br>
+<a href="https://api.whatsapp.com/send?phone=+919539412641&text=*Developing!+wait+and+seeee😌👣🍒*" target="blank"><img align="center" src="https://i.imgur.com/6rs61MY.png" alt="Deploy bot" height="112" width="310" /></a>
+  <div>
+<br>
+
+## Deploy to Koyeb ↓
+
+<a href="https://api.whatsapp.com/send?phone=+919539412641&text=*Developing!+wait+and+seeee😌👣🍒*" target="blank"><img align="center" src="https://i.imgur.com/PNoLtFq.png" alt="Deploy bot" height="112" width="310" /></a>
+  <div>
+<br>
+<div>
+  <br>
+
+
+## Deploy to Railway ↓
+
+<a href="https://api.whatsapp.com/send?phone=+919539412641&text=*Developing!+wait+and+seeee😌👣🍒*" target="blank"><img align="center" src="https://railway.app/button.svg" alt="Deploy bot" height="" width="" /></a>
+  <div>
+<br>
+<div>
+  <br>
