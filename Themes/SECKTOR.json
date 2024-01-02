@@ -1,6 +1,6 @@
 {
   "__JSON__": true,
-  "AUTHOR": "SamPandey001",
+  "AUTHOR": "Axlmd",
   "LANGUAGE": "English",
   "LANGCODE": "en",
   "STRINGS": {
@@ -10,31 +10,26 @@
           "UPDATED_LOCAL": "*Successfully Updated!*"
       },
       "global": {
-          "botName": " Powered by Secktor",
+          "botName": " Powered by TM-S-P-A-R-K-Y",
           "body": "𝑊ℎ𝑎𝑡𝑠𝑎𝑝𝑝 𝐵𝑜𝑡",
           "greet2" : "Sir",
           "pic1": "https://raw.githubusercontent.com/SecktorBot/Brandimages/main/new/first.jpg",
           "pic2": "https://raw.githubusercontent.com/SecktorBot/Brandimages/main/new/second.jpg",
-          "pic3": "https://raw.githubusercontent.com/SecktorBot/Brandimages/main/new/third.jpg",
-          "pic4": "https://raw.githubusercontent.com/SecktorBot/Brandimages/main/new/fourth.jpg",
-          "pic5": "https://raw.githubusercontent.com/SecktorBot/Brandimages/main/new/fifth.jpg",
-          "pic6": "https://raw.githubusercontent.com/SecktorBot/Brandimages/main/new/sixth.jpg",
-          "pic7": "https://raw.githubusercontent.com/SecktorBot/Brandimages/main/new/seventh.jpg",
            "greet" : "Sir",
          "dotbody" : "I'm Alive.",
           "promote": "Admin Role Given to my Darling",
-          "pmallow": "*Hii,This is Secktor*\n*An assistant of My Master.*\nMy Master is busy right now.\nKindly Leave your Message.\n\n_I will inform him about your message asap......_",
-          "pmblock": "❌ Blocked*\n\n You have been blocked for spamming.\n\n _ Powered by Secktor_",
-          "pmwarn": "✋Hii* \nPlease don't spam else I'll block you for spamming. _You have ${checkPermit.times} warning(s)._\n\n *Powered by Secktor*",
-          "permited": "Hii ${tname} Sir*\n\nNow You are permitted by my owner to pm now.\n\n *Powered by Secktor", 
-          "revoked" : "*Hii ${tname} Sir*\n\nYour pm permit permission has been prevoked now.\n\n _Powered by Secktor_",
+          "pmallow": "*Hii,This is A-X-L*\n*An assistant of My Master.*\nMy Master is busy right now.\nKindly Leave your Message.\n\n_I will inform him about your message asap......_",
+          "pmblock": "❌ Blocked*\n\n You have been blocked for spamming.\n\n _ Powered by 𝘼𝙓𝙇 - 𝙈𝘿 𖤍",
+          "pmwarn": "✋Hii* \nPlease don't spam else I'll block you for spamming. _You have ${checkPermit.times} warning(s)._\n\n *Powered by 𝘼𝙓𝙇 - 𝙈𝘿 𖤍*",
+          "permited": "Hii ${tname} Sir*\n\nNow You are permitted by my owner to pm now.\n\n *Powered by 𝘼𝙓𝙇 - 𝙈𝘿 𖤍", 
+          "revoked" : "*Hii ${tname} Sir*\n\nYour pm permit permission has been prevoked now.\n\n _Powered by 𝘼𝙓𝙇 - 𝙈𝘿 𖤍",
           "demote": "Uhh,Admin Role Taken back",
-          "antlink": "Link Detected.\n*Good Bye Sir*",
-          "session": "\n*This is your session.sam.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and *Deploy Branch* and Bot will run for Always\n\n*Powered by Secktor*",
-          "mention": " Please mention any user Sir",
-          "title": "Secktor",
-          "footer": "Secktor",
-          "by": "Made by: *CitelVoid*",
+          "antlink": "Link Detected.\n*Good Bye Vro📍*",
+          "session": "\n*This is your session.sam.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and *Deploy Branch* and Bot will run for Always\n\n*Powered by 𝘼𝙓𝙇 - 𝙈𝘿 𖤍*",
+          "mention": " Please mention any user vro",
+          "title": "𝘼𝙓𝙇 - 𝙈𝘿 𖤍",
+          "footer": "𝘼𝙓𝙇 - 𝙈𝘿 𖤍",
+          "by": "Made by: *_Ajsal_*",
           "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
           "success": "Done ✓",
           "dot": "Did you mean *help?*",
@@ -49,7 +44,7 @@
           "wait": "𝑷𝒓𝒐𝒄𝒆𝒔𝒔𝒊𝒏𝒈 𝒚𝒐𝒖𝒓 𝒓𝒆𝒒𝒖𝒆𝒔𝒕✅" 
       },
       "error": {
-          "text": "*Uhh,Got an Error*"
+          "text": "*Uhh,Got an Error*\n\n*_Yep bro oombi😶_*"
       }
   }
 }
