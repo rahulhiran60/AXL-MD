@@ -3,14 +3,14 @@ if (fs.existsSync('config.env')) require('dotenv').config({ path: __dirname+'/co
 
 
 //═══════[Required Variables]════════\\
-global.owner = process.env.OWNER_NUMBER.split(",")
+global.owner = "917012984396" //hy process.env.OWNER_NUMBER.split(",")
 global.mongodb = process.env.MONGODB_URI || "mongodb+srv://ajsalsd:rioHWvIFV7nkxkWz@cluster0.d0hnfmp.mongodb.net/?retryWrites=true&w=majority"
 global.port= process.env.PORT || 5000
 global.email = 'itzmeajsal@gmail.com'
 global.github = 'https://github.com/A-J-S-A-L-S-P-A-R-K-Y'
 global.location = 'Malappuram,Kerala'
 global.gurl = 'https://instagram.com/' // add your username
-global.sudo = process.env.SUDO || '919539412641'
+global.sudo = process.env.SUDO || '917012984396'
 global.devs = '919539412641';
 global.website = 'https://github.com/A-J-S-A-L-S-P-A-R-K-Y' //wa.me/+919539412641
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://i.imgur.com/PHL1lqr.jpg'
