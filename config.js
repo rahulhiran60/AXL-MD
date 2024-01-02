@@ -15,7 +15,7 @@ global.devs = '919539412641';
 global.website = 'https://github.com/A-J-S-A-L-S-P-A-R-K-Y' //wa.me/+919539412641
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://i.imgur.com/PHL1lqr.jpg'
 module.exports = {
-  botname:   process.env.BOT_NAME === undefined ? '𝘼𝙓𝙇 - 𝙈𝘿 𖤍' : process.env.BOT_NAME,
+  botname: '𝘼𝙓𝙇 - 𝙈𝘿 𖤍',
   ownername: process.env.OWNER_NAME === undefined ? ' 𝘈𝘑𝘟𝘈𝘓' : process.env.OWNER_NAME,
   sessionName:  process.env.SESSION_ID === undefined ? false : process.env.SESSION_ID,
   author: '𝘼𝙓𝙇 - 𝙈𝘿 𖤍; 𝘈𝘑𝘟𝘈𝘓-SER',
