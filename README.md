@@ -21,7 +21,7 @@
 <img alt="whatsapp" src="https://img.shields.io/badge/Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   
-## _Multi device whatsapp_
+## _Multi device whatsapp bot_
   
 <div align="center">
    
