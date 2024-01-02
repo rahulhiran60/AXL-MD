@@ -16,8 +16,8 @@ global.website = 'https://github.com/A-J-S-A-L-S-P-A-R-K-Y' //wa.me/+91953941264
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://i.imgur.com/PHL1lqr.jpg'
 module.exports = {
   botname:'𝘼𝙓𝙇 - 𝙈𝘿 𖤍',
-  ownername: process.env.OWNER_NAME === undefined ? ' 𝘈𝘑𝘟𝘈𝘓' : process.env.OWNER_NAME,
-  sessionName:  process.env.SESSION_ID === undefined ? false : process.env.SESSION_ID,
+  ownername:'𝘈𝘑𝘟𝘈𝘓',
+  sessionName:false,
   author:'𝘼𝙓𝙇 - 𝙈𝘿 𖤍; 𝘈𝘑𝘟𝘈𝘓-SER',
   auto_read_status :false,
   packname:'𝘼𝙓𝙇 - 𝙈𝘿 𖤍; 𝘈𝘑𝘟𝘈𝘓-SER',
@@ -43,9 +43,9 @@ module.exports = {
     API_KEY:'1abfce1e-1bee-4334-9f6c-f4c1cb1cafab',
     APP_NAME:'zeropgg'
 },
-  VERSION: process.env.VERSION === undefined ? 'v.1.0' : process.env.VERSION,
+  VERSION:'v.1.0',
   LANG: process.env.THEME|| 'SECKTOR',
-  WORKTYPE: process.env.WORKTYPE === undefined ? 'public' : process.env.WORKTYPE
+  WORKTYPE:'public'
 };
 
 
