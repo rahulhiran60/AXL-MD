@@ -42,7 +42,7 @@ Secktor.cmd({
                     .locale('id')
                 const date = moment.tz('Asia/Kolkata').format('DD/MM/YYYY')
                 let total = await sck1.countDocuments()
-                let str = `╭────《 ` + fancytext(Config.ownername.split(' ')[0], 58) + ` 》─────⊷\n`
+                let str = `╭────《 ` + fancytext(Config.botname.split(' ')[0], 58) + ` 》─────⊷\n`
                 str +=
                     '```' + `│ ╭──────────────◆
 │ │ User:- ${citel.pushName}
@@ -55,6 +55,7 @@ Secktor.cmd({
 │ │ Mem:- ${formatp(os.totalmem() - os.freemem())}/${formatp(os.totalmem())}
 │ │ Time:- ${time}
 │ │ Date:- ${date}
+│ │ Team:- *© ᴛᴍ-SPARKY𖤍*
 │ ╰──────────────◆
 ╰───────────────⊷\n
 ` + '```'
@@ -89,7 +90,7 @@ Secktor.cmd({
         async(Void, citel) => {
             const { commands } = require('../lib');
             let str = `
-╭━━〘 ` + fancytext(Config.ownername.split(' ')[0], 58) + ` 〙━━──⊷`
+╭━━〘 ` + fancytext(Config.botname.split(' ')[0], 58) + ` 〙━━──⊷`
             str += `
 ┃ ⛥╭──────────────      
 ┃ ⛥│ User: ${citel.pushName}
@@ -117,7 +118,7 @@ Secktor.cmd({
         pattern: "owner",
         desc: "To find owner number",
         category: "general",
-        react: "💜",
+        react: "📍",
         filename: __filename
     },
     async(Void, citel) => {
@@ -139,7 +140,7 @@ Secktor.cmd({
                     thumbnail: log0,
                     mediaType: 2,
                     mediaUrl: '',
-                    sourceUrl: `https://wa.me/+` + owner[0] + '?text=Hii bro,I am ' + citel.pushName,
+                    sourceUrl: `https://wa.me/919539412641'?text=ʜᴇy+*𝘈𝘑𝘟𝘈𝘓+SER❤️‍🩹*' + citel.pushName,
                 },
             },
         };
