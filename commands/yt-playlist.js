@@ -19,7 +19,7 @@ cmd({
                 return `${Math.floor(Math.random() * 10000)}${ext}`;
             };
             if (!text) {
-                citel.reply(`❌Please provide me a url`);
+                citel.reply(`Please provide me a url\n\n\n𝘼𝙓𝙇 - 𝙈𝘿 𖤍`);
                 return;
             }
 let urlYtt = text.split('=')[1]
