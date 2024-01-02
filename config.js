@@ -3,7 +3,7 @@ if (fs.existsSync('config.env')) require('dotenv').config({ path: __dirname+'/co
 
 
 //═══════[Required Variables]════════\\
-global.owner = "917012984396" //hy process.env.OWNER_NUMBER.split(",")
+global.owner = "919539412641" //hy process.env.OWNER_NUMBER.split(",")
 global.mongodb = process.env.MONGODB_URI || "mongodb+srv://ajsalsd:rioHWvIFV7nkxkWz@cluster0.d0hnfmp.mongodb.net/?retryWrites=true&w=majority"
 global.port= process.env.PORT || 5000
 global.email = 'itzmeajsal@gmail.com'
@@ -16,7 +16,7 @@ global.website = 'https://github.com/A-J-S-A-L-S-P-A-R-K-Y' //wa.me/+91953941264
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://i.imgur.com/PHL1lqr.jpg'
 module.exports = {
   botname:'𝘼𝙓𝙇 - 𝙈𝘿 𖤍',
-  ownername:'𝘈𝘑𝘟𝘈𝘓',
+  ownername:'𝘼𝙓𝙇 - 𝙈𝘿 𖤍',
   sessionName:false,
   author:'𝘼𝙓𝙇 - 𝙈𝘿 𖤍; 𝘈𝘑𝘟𝘈𝘓-SER',
   auto_read_status :false,
@@ -34,7 +34,7 @@ module.exports = {
   antilink:'chat.whatsapp.com',
   antilinkaction:'remove',
   BRANCH:'main', 
-  ALIVE_MESSAGE:'',
+  ALIVE_MESSAGE:'ʜᴇy ɪ ᴀᴍ ꜱᴛɪʟʟ ᴀʟɪᴠᴇ\n\n*© 𝘼𝙓𝙇 - 𝙈𝘿 𖤍*',
   autobio:false,
   OPENAI_API_KEY:false,
   heroku:false,
