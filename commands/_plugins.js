@@ -1,13 +1,3 @@
-/**
- Copyright (C) 2022.
- Licensed under the  GPL-3.0 License;
- You may not use this file except in compliance with the License.
- It is supplied in the hope that it may be useful.
- * @project_name : Secktor-Md
- * @author : SamPandey001 <https://github.com/SamPandey001>
- * @description : Secktor,A Multi-functional whatsapp bot.
- * @version 0.0.6
- **/
 const axios = require('axios');
 const fs = require('fs-extra')
 const { plugins,plugindb, remove, isUrl,cmd } = require('../lib')
@@ -22,7 +12,7 @@ cmd({
     async(Void, citel, text, { isCreator }) => {
         const { tlang } = require('../lib')
         if (!isCreator) return citel.reply(tlang().owner)
-        let allmodtext = `*All Installed Plugins are:-*\n\n`
+        let allmodtext = `*𝘼𝙓𝙇 - 𝙈𝘿 𖤍*\n*All Installed Plugins are:-*\n\n`
         allmodtext += await plugins()
         return citel.reply(allmodtext)
 
