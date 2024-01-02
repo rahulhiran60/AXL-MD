@@ -1,7 +1,7 @@
 # AXL-MD 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=00FFFF&center=true&width=910&height=100&lines=I'm+A-X-L+MD;ᴍᴜʟᴛɪ+ᴅɪᴠɪᴄᴇ+ᴡʜᴀᴛꜱᴀᴩᴩ+ʙᴏᴛ;ᴄᴏᴅᴇᴅ+ʙy+ᴛᴇᴀᴍ-ꜱᴩᴀʀᴋy" alt="Typing SVG" /></a>
-<img alt="AJSAL SPARKY" height="300" src="https://i.imgur.com/muMnfwc.jpg">
+<img alt="AJSAL SPARKY" height="300" src="https://i.imgur.com/HGvPCKM.jpg">
 </p>
   </a>
 </p>
