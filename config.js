@@ -16,7 +16,7 @@ global.website = 'https://github.com/A-J-S-A-L-S-P-A-R-K-Y' //wa.me/+91953941264
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://i.imgur.com/PHL1lqr.jpg'
 module.exports = {
   botname:'𝘼𝙓𝙇 - 𝙈𝘿 𖤍',
-  ownername:'𝘼𝙓𝙇 - 𝙈𝘿 𖤍',
+  ownername:'𝘈𝘑𝘟𝘈𝘓-SER',
   sessionName:false,
   author:'𝘼𝙓𝙇 - 𝙈𝘿 𖤍; 𝘈𝘑𝘟𝘈𝘓-SER',
   auto_read_status :false,
