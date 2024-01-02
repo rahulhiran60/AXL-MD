@@ -7,7 +7,7 @@
 </p>
    
 <p align="center">
-# 𖤍
+𖤍
 <p align="center">
 
   <a aria-label="Join our chats" href="https://chat.whatsapp.com/HbekCMezwdr6bZXFjTNkLH" target="_blank">
