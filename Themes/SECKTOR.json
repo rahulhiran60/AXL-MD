@@ -5,8 +5,8 @@
   "LANGCODE": "en",
   "STRINGS": {
       "updater": {
-          "UPDATE": "*Your bot is already on latest version Sir*",
-          "NEW_UPDATE": "*There is a new update available for the bot!*\n\n*Changes:*\n",
+          "UPDATE": "*Your bot is already on latest version bro*",
+          "NEW_UPDATE": "*There is a new update available for the bot!*\n\n*Changes:*\n\n *Powered by 𝘼𝙓𝙇 - 𝙈𝘿 𖤍*",
           "UPDATED_LOCAL": "*Successfully Updated!*"
       },
       "global": {
@@ -16,6 +16,7 @@
           "pic1": "https://i.imgur.com/muMnfwc.jpg",
           "pic2": "https://i.imgur.com/PHL1lqr.jpg",
           "pic3": "https://i.imgur.com/HGvPCKM.jpg",
+          "pic3": "https://i.imgur.com/ddyTnoV.jpg",
            "greet" : "Sir",
          "dotbody" : "I'm Alive.",
           "promote": "Admin Role Given to my Darling",
