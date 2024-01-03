@@ -34,16 +34,16 @@
 
 ## Deploy to Heroku ↓
 
-<a href="https://api.whatsapp.com/send?phone=+919539412641&text=*Developing!+wait+and+seeee😌👣🍒*" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="112" width="310" /></a>
+<a href="https://api.whatsapp.com/send?phone=+919539412641&text=*Developing!+wait+and+seeee😌👣🍒*" target="blank"><img align="center" src="https://i.imgur.com/cxaSEWe.png" alt="Deploy bot" height="75" width="200" /></a>
   <div>
 <br>
-<a href="https://api.whatsapp.com/send?phone=+919539412641&text=*Developing!+wait+and+seeee😌👣🍒*" target="blank"><img align="center" src="https://i.imgur.com/6rs61MY.png" alt="Deploy bot" height="112" width="310" /></a>
+<a href="https://api.whatsapp.com/send?phone=+919539412641&text=*Developing!+wait+and+seeee😌👣🍒*" target="blank"><img align="center" src="https://i.imgur.com/6rs61MY.png" alt="Deploy bot" height="70" width="190" /></a>
   <div>
 <br>
 
 ## Deploy to Koyeb ↓
 
-<a href="https://api.whatsapp.com/send?phone=+919539412641&text=*Developing!+wait+and+seeee😌👣🍒*" target="blank"><img align="center" src="https://i.imgur.com/PNoLtFq.png" alt="Deploy bot" height="112" width="310" /></a>
+<a href="https://api.whatsapp.com/send?phone=+919539412641&text=*Developing!+wait+and+seeee😌👣🍒*" target="blank"><img align="center" src="https://i.imgur.com/PNoLtFq.png" alt="Deploy bot" height="70" width="190" /></a>
   <div>
 <br>
 <div>
@@ -52,7 +52,7 @@
 
 ## Deploy to Railway ↓
 
-<a href="https://api.whatsapp.com/send?phone=+919539412641&text=*Developing!+wait+and+seeee😌👣🍒*" target="blank"><img align="center" src="https://railway.app/button.svg" alt="Deploy bot" height="" width="" /></a>
+<a href="https://api.whatsapp.com/send?phone=+919539412641&text=*Developing!+wait+and+seeee😌👣🍒*" target="blank"><img align="center" src="https://railway.app/button.svg" alt="Deploy bot" height="70" width="190" /></a>
   <div>
 <br>
 <div>
