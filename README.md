@@ -22,7 +22,7 @@
   </a>
   
 ## _Multi device whatsapp bot_
- #### FORK THIS REPO
+ #### FORK REPO
 
 𖤍 Must Fork This Repo Before Deployment !
    <br>
