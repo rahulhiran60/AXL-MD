@@ -26,7 +26,8 @@
 
 1. Must Fork This Repo Before Deployment !
    <br> 
-<a href="https://github.com/A-J-S-A-L-S-P-A-R-K-Y/AXL-MD/fork"><img title="FORK REPO" src="https://img.shields.io/badge/FORK REPO-h?color=black&style=for-the-badge&logo=stackshare"></a><br><br>
+<a href="https://github.com/A-J-S-A-L-S-P-A-R-K-Y/AXL-MD/fork"><img title="FORK REPO"
+<p align="center">src="https://img.shields.io/badge/FORK REPO-h?color=black&style=for-the-badge&logo=stackshare"></a><br><br>
    
 <a href="https://api.whatsapp.com/send?phone=+919539412641&text=*Developing!+wait+and+seeee😌👣🍒*"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR" height="75" width="200" /></a><br>
 
