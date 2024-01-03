@@ -25,7 +25,6 @@
 
 </p>
 
-## SETUP:-
  ### FORK REPO
 
 𖤍 Must Fork This Repo Before Deployment !
@@ -58,11 +57,17 @@ src="https://img.shields.io/badge/FORK REPO-h?color=black&style=for-the-badge&lo
  #### DEPLOY TO HEROKU ↓
 
 1. If You don't have a account in Heroku. Create a account.
+ 
+   <p align="center">
+   
 <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=pink'/></a>
 
 </p>
 
 2. Now Deploy
+
+  <p align="center">
+    
 <a href='https://api.whatsapp.com/send?phone=+919539412641&text=*Developing!+wait+and+seeee😌👣🍒*' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=pink'/></a>
   <div>
 <br>
