@@ -34,6 +34,7 @@ src="https://img.shields.io/badge/FORK REPO-h?color=black&style=for-the-badge&lo
    
 #### SCAN QR
 𖤍 Scan the QR for session id.
+</p>
 𖤍 `Open Whatapp>Three dots>Linked Devices`
  <p align="center">
 <a href="https://api.whatsapp.com/send?phone=+919539412641&text=*Developing!+wait+and+seeee😌👣🍒*"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR" height="75" width="200" /></a><br>
