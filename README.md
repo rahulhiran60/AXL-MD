@@ -25,7 +25,7 @@
   
 <div align="center">
    
-<a href="https://api.whatsapp.com/send?phone=+919539412641&text=*Developing!+wait+and+seeee😌👣🍒*"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR" height="112" width="300" /></a><br>
+<a href="https://api.whatsapp.com/send?phone=+919539412641&text=*Developing!+wait+and+seeee😌👣🍒*"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR" height="75" width="200" /></a><br>
 
 
 
