@@ -22,6 +22,10 @@
   </a>
   
 ## _Multi device whatsapp bot_
+
+</p>
+
+## SETUP:-
  ### FORK REPO
 
 𖤍 Must Fork This Repo Before Deployment !
@@ -47,7 +51,11 @@ src="https://img.shields.io/badge/FORK REPO-h?color=black&style=for-the-badge&lo
 <div>
 <br>
 
-#### DEPLOY TO HEROKU 
+## DEPLOYMENT ↓
+
+</p>
+
+ #### DEPLOY TO HEROKU ↓
 
 1. If You don't have a account in Heroku. Create a account.
     <br>
