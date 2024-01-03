@@ -22,7 +22,7 @@
   </a>
   
 ## _Multi device whatsapp bot_
- #### FORK REPO
+ ### FORK REPO
 
 𖤍 Must Fork This Repo Before Deployment !
    <br>
@@ -32,10 +32,12 @@ src="https://img.shields.io/badge/FORK REPO-h?color=black&style=for-the-badge&lo
  
  <p align="center">
    
-#### SCAN QR
+### SCAN QR
 𖤍 Scan the QR for session id.
 </p>
-𖤍 `Open Whatapp>Three dots>Linked Devices`
+</a>
+𖤍+`Open Whatapp>Three dots>Linked Devices`
+</p>
  <p align="center">
 <a href="https://api.whatsapp.com/send?phone=+919539412641&text=*Developing!+wait+and+seeee😌👣🍒*"><img align="center" src="https://i.imgur.com/dzPTA6u.png" alt="Scan QR" height="75" width="200" /></a><br>
 
@@ -44,14 +46,14 @@ src="https://img.shields.io/badge/FORK REPO-h?color=black&style=for-the-badge&lo
 <div>
 <br>
 
-## Deploy to Heroku ↓
+### Deploy to Heroku ↓
 
 
 <a href="https://api.whatsapp.com/send?phone=+919539412641&text=*Developing!+wait+and+seeee😌👣🍒*" target="blank"><img align="center" src="https://i.imgur.com/6rs61MY.png" alt="Deploy bot" height="70" width="190" /></a>
   <div>
 <br>
 
-## Deploy to Koyeb ↓
+### Deploy to Koyeb ↓
 
 <a href="https://api.whatsapp.com/send?phone=+919539412641&text=*Developing!+wait+and+seeee😌👣🍒*" target="blank"><img align="center" src="https://i.imgur.com/PNoLtFq.png" alt="Deploy bot" height="70" width="190" /></a>
   <div>
@@ -60,7 +62,7 @@ src="https://img.shields.io/badge/FORK REPO-h?color=black&style=for-the-badge&lo
   <br>
 
 
-## Deploy to Railway ↓
+### Deploy to Railway ↓
 
 <a href="https://api.whatsapp.com/send?phone=+919539412641&text=*Developing!+wait+and+seeee😌👣🍒*" target="blank"><img align="center" src="https://railway.app/button.svg" alt="Deploy bot" height="70" width="190" /></a>
   <div>
