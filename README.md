@@ -47,10 +47,15 @@ src="https://img.shields.io/badge/FORK REPO-h?color=black&style=for-the-badge&lo
 <div>
 <br>
 
-### Deploy to Heroku ↓
+#### DEPLOY TO HEROKU 
 
+1. If You don't have a account in Heroku. Create a account.
+    <br>
+<a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=pink'/></a>
 
-<a href="https://api.whatsapp.com/send?phone=+919539412641&text=*Developing!+wait+and+seeee😌👣🍒*" target="blank"><img align="center" src="https://i.imgur.com/6rs61MY.png" alt="Deploy bot" height="70" width="190" /></a>
+3. Now Deploy
+    <br>
+<a href='https://api.whatsapp.com/send?phone=+919539412641&text=*Developing!+wait+and+seeee😌👣🍒*' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=pink'/></a>
   <div>
 <br>
 
