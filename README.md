@@ -92,7 +92,7 @@ src="https://img.shields.io/badge/FORK REPO-h?color=black&style=for-the-badge&lo
 <div>
   <br>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=A52A2A&center=true&width=910&height=100&lines=Thanks+for+Visiting/Choosing❤️‍🩹+our+bot+-+𝘼𝙓𝙇+-+𝙈𝘿+𖤍" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=A52A2A&center=true&width=910&height=100&lines=ᴛʜᴀɴᴋꜱ+ꜰᴏʀ+ᴠɪꜱɪᴛɪɴɢ❤️‍🩹+𝘼𝙓𝙇-𝙈𝘿𖤍" alt="Typing SVG" /></a>
 
 </p>
   </a>
