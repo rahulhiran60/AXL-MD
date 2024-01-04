@@ -1,3 +1,4 @@
+// Coded by AXL - S-P-A-R-K-Y 
 export declare class TicTacToe {
     /* X PlayerName */
     playerX: string;
