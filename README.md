@@ -34,7 +34,7 @@
 <a href="https://github.com/A-J-S-A-L-S-P-A-R-K-Y/AXL-MD/fork"><img title="FORK REPO"
 src="https://img.shields.io/badge/FORK REPO-h?color=black&style=for-the-badge&logo=stackshare"></a><br><br>
  
- <p align="center">
+
    
 ### SCAN QR
 𖤍 Scan the QR for session id.
@@ -64,8 +64,12 @@ src="https://img.shields.io/badge/FORK REPO-h?color=black&style=for-the-badge&lo
 <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=pink'/></a>
 
 </p>
+
 <br>
+
 2.Now Deploy
+
+<br>
 
 <a href='https://api.whatsapp.com/send?phone=+919539412641&text=*Developing!+wait+and+seeee😌👣🍒*' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=pink'/></a>
   <div>
