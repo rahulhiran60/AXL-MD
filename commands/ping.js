@@ -1,7 +1,7 @@
 //---------------------------------------------------------------------------
 const Secktor = require('../lib')
 Secktor.cmd({
-        pattern: "ping",
+        pattern: "check",
         desc: "To check ping",
         category: "general",
         react: "🗿",
