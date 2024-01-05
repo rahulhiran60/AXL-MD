@@ -4,7 +4,7 @@
  You may not use this file except in compliance with the License.
  It is supplied in the hope that it may be useful.
  * @project_name : axl-Md
- * @author : SamPandey001 <https://github.com/A-J-S-A-L-S-P-A-R-K-Y/AXL-MD>
+ * @author : Axl <https://github.com/A-J-S-A-L-S-P-A-R-K-Y/AXL-MD>
  * @description : Axl,A Multi-functional whatsapp bot.
  * @version 1.0
  **/
