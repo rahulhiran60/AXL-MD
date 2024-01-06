@@ -124,42 +124,6 @@ for (let i = 0; i < commands.length; i++)
         }
     )
     //---------------------------------------------------------------------------
-Secktor.cmd({
-        pattern: "owner",
-        desc: "To find owner number",
-        category: "general",
-        react: "👨🏻‍💻",
-        filename: __filename
-    },
-    async(Void, citel) => {
-        const Config = require('../config')
-        const vcard = 'BEGIN:VCARD\n' +
-            'VERSION:1.0\n' +
-            'FN:' + Config.ownername + '\n' +
-            'ORG:;\n' +
-            'TEL;type=CELL;type=VOICE;waid=' + owner[0] + ':+' + owner[0] + '\n' +
-            'END:VCARD'
-        let buttonMessaged = {
-            contacts: { displayName: Config.ownername, contacts: [{ vcard }] },
-            contextInfo: {
-                externalAdReply: {
-                    title: Config.ownername,
-                    body: 'Touch here.',
-                    renderLargerThumbnail: true,
-                    thumbnailUrl: ``,
-                    thumbnail: log0,
-                    mediaType: 2,
-                    mediaUrl: 'https://i.imgur.com/HGvPCKM.jpg',
-                    sourceUrl: `https://wa.me/919539412641?text=Hii+bro+,+Tnx+for+made+this+bot❤️‍🩹+!,
-                },
-            },
-        };
-        return await Void.sendMessage(citel.chat, buttonMessaged, {
-            quoted: citel,
-        });
-
-  
-
 
 Secktor.cmd({
     pattern: "file",
