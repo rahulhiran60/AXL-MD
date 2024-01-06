@@ -150,16 +150,16 @@ cmd({
             pattern: "fancy",
             desc: "Makes stylish/fancy given text",
             category: "converter",
-            use: '56 Secktor',
+            use: '56 SAxl ',
             react: "✅",
             filename: __filename
         },
         async(Void, citel, text) => {
             if (isNaN(text.split(" ")[0]) || !text) {
                 let text = tiny(
-                    "Fancy text generator\n\nExample: .fancy 32 Secktor\n\n"
+                    "Fancy text generator\n\nExample: .fancy 32 AXL\n\n"
                 );
-                listall("Secktor Bot").forEach((txt, num) => {
+                listall("AXL SPARKY").forEach((txt, num) => {
                     text += `${(num += 1)} ${txt}\n`;
                 });
                 return await citel.reply(text);
@@ -192,7 +192,7 @@ cmd({
     )
     //---------------------------------------------------------------------------
     cmd({
-        pattern: "circle",
+        pattern: "sticker",
         alias: ["circlestic","circlesticker","cs"],
         desc: "Makes sticker of replied image/video.",
         category: "sticker",
