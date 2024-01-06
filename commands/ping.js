@@ -7,11 +7,10 @@ Secktor.cmd({
         react: "🗿",
         filename: __filename,
     },
-    async(Void, citel, text) => {
+    async(Void, text) => {
         var inital = new Date().getTime();
-        const { key } = await Void.sendMessage(citel.chat, {text: '```Checking Ping!```'});
+        const { key } = await Void.sendMessage( {text:'```Checking Ping!```'});
         var final = new Date().getTime();
-       await Secktor.sleep(1000)
-       return await Void.sendMessage(citel.chat, {text: '*Pong' + (final - inital) + 'ms*', edit: key});
+       return await Void.sendMessage({text:'*Pong' + (final - inital) + 'ms*', edit: key});
     }
 );
