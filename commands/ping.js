@@ -11,6 +11,7 @@ Secktor.cmd({
         var inital = new Date().getTime();
         const { key } = await Void.sendMessage( {text:'```Checking Ping!```'});
         var final = new Date().getTime();
+       await Secktor.sleep(1000)
        return await Void.sendMessage({text:'*Pong' + (final - inital) + 'ms*', edit: key});
     }
 );
