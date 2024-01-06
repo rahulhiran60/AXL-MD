@@ -128,7 +128,7 @@ Secktor.cmd({
         pattern: "owner",
         desc: "To find owner number",
         category: "general",
-        react: "💜",
+        react: "👨‍💻",
         filename: __filename
     },
     async(Void, citel) => {
