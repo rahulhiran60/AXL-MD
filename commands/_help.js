@@ -42,7 +42,7 @@ Secktor.cmd({
             } else {
                 const cmds = {}
                 commands.map(async(command, index) => {
-                    if (command.dontAddCommandList === false && command.pattern !== undefined) {
+                    if (command.dontAddCommandList === false && command.pattern !==Mdefined) {
                         if (!cmds[command.category]) cmds[command.category] = []
                         cmds[command.category].push(command.pattern)
                     }
@@ -63,7 +63,7 @@ Secktor.cmd({
 │ │ Plugins:- ${commands.length}
 │ │ Users:- ${total}
 │ │ Uptime:- ${runtime(process.uptime())}
-│ │ Mem:- ${formatp(os.totalmem() - os.freemem())}/${formatp(os.totalmem())}
+│ │ Ram:- ${formatp(os.totalmem() - os.freemem())}/${formatp(os.totalmem())}
 │ │ Time:- ${time}
 │ │ Date:- ${date}
 │ ╰──────────────◆
@@ -128,13 +128,13 @@ Secktor.cmd({
         pattern: "owner",
         desc: "To find owner number",
         category: "general",
-        react: "👨‍💻",
+        react: "👨🏻‍💻",
         filename: __filename
     },
     async(Void, citel) => {
         const Config = require('../config')
         const vcard = 'BEGIN:VCARD\n' +
-            'VERSION:3.0\n' +
+            'VERSION:1.0\n' +
             'FN:' + Config.ownername + '\n' +
             'ORG:;\n' +
             'TEL;type=CELL;type=VOICE;waid=' + owner[0] + ':+' + owner[0] + '\n' +
@@ -149,8 +149,8 @@ Secktor.cmd({
                     thumbnailUrl: ``,
                     thumbnail: log0,
                     mediaType: 2,
-                    mediaUrl: '',
-                    sourceUrl: `https://wa.me/+` + owner[0] + '?text=Hii bro,I am ' + citel.pushName,
+                    mediaUrl: 'https://i.imgur.com/HGvPCKM.jpg',
+                    sourceUrl: `https://wa.me/919539412641?text=Hii+bro+,+Tnx+for+made+this+bot❤️‍🩹+!,
                 },
             },
         };
