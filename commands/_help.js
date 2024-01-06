@@ -1,14 +1,3 @@
-/**
- Copyright (C) 2022.
- Licensed under the  GPL-3.0 License;
- You may not use this file except in compliance with the License.
- It is supplied in the hope that it may be useful.
- * @project_name : axl-Md
- * @author : Axl <https://github.com/A-J-S-A-L-S-P-A-R-K-Y/AXL-MD>
- * @description : Axl,A Multi-functional whatsapp bot.
- * @version 1.0
- **/
-
 const os = require('os')
 const moment = require("moment-timezone")
 const fs = require("fs")
@@ -63,128 +52,7 @@ Secktor.cmd({
 │ │ Plugins:- ${commands.length}
 │ │ Users:- ${total}
 │ │ Uptime:- ${runtime(process.uptime())}
-│ │ Ram:- ${formatp(os.totalmem() - os.freemem())}/${formatp(os.totalmem())}
-│ │ Time:- ${time}
-│ │ Date:- ${date}
-│ ╰──────────────◆
-╰───────────────⊷\n
-` + '```'
-                for (const category in cmds) 
-                {
-                   str += `╭────❏ *${tiny(category)}* ❏\n` ;
-                   if(text.toLowerCase() == category.toLowerCase()){ str = `╭─────❏ *${tiny(category)}* ❏\n` ;      
-                        for (const plugins of cmds[category]) { str += `│ ${fancytext(plugins,1)}\n` ; }
-                        str += `╰━━━━━━━━━━━━━──⊷\n`  ;
-                        break ;
-                   }
-                   else { for (const plugins of cmds[category]) { str += `│ ${fancytext(plugins,1)}\n` ; }
-                         str += `╰━━━━━━━━━━━━━━──⊷\n`  ; 
-                   }
-  
-                }
-                str+= `\n\n\n*ᴛ-ᴍ 𝘼𝙓𝙇 - 𝙈𝘿 𖤍 - 👨🏻‍💻*`
-                let buttonMessaged = {
-                    image: { url: await botpic() },
-                    caption: str
-                };
-                return await Void.sendMessage(citel.chat, buttonMessaged);
-            }
-        }
-    )
-    //---------------------------------------------------------------------------
-Secktor.cmd({
-            pattern: "list",
-            desc: "list menu",
-            category: "general"
-        },
-        async(Void, citel) => {
-            const { commands } = require('../lib');
-            let str = `
-╭━━〘 ` + fancytext(Config.botname.split(' ')[0], 58) + ` 〙━━──⊷`
-            str += `
-┃ ⛥╭──────────────      
-┃ ⛥│ User: ${citel.pushName}
-┃ ⛥│ Theme: ${tlang().title}
-┃ ⛥│ Prefix: ${prefix}
-┃ ⛥│ Owner: ${Config.ownername}
-┃ ⛥│ Commands: ${commands.length}
-┃ ⛥│ Uptime: ${runtime(process.uptime())}
-┃ ⛥│ Ram: ${formatp(os.totalmem() - os.freemem())}/${formatp(os.totalmem())}
-┃ ⛥│  
-┃ ⛥╰───────────
-╰━━━━━━━━━━━──⊷\n`
-for (let i = 0; i < commands.length; i++) 
-{
-     if(commands[i].pattern==undefined) continue
-     str +=       `╭ ${i+1} *${fancytext(commands[i].pattern,1)}*\n` 
-     if(commands[i].desc=undefined) commands[i].desc=""
-     str += `╰➛ \n\n\n*ᴛ-ᴍ 𝘼𝙓𝙇 - 𝙈𝘿 𖤍 - 👨🏻‍💻*`
-}
-            return await Void.sendMessage(citel.chat, { image: { url: THUMB_IMAGE }, caption: str })
-        }
-    )
-    //---------------------------------------------------------------------------
-Secktor.cmd({
-        pattern: "owner",
-        desc: "To find owner number",
-        category: "general",
-        react: "💜",
-        filename: __filename
-    },
-    async(Void, citel) => {
-        const Config = require('../config')
-        const vcard = 'BEGIN:VCARD\n' +
-            'VERSION:3.0\n' +
-            'FN:' + Config.ownername + '\n' +
-            'ORG:;\n' +
-            'TEL;type=CELL;type=VOICE;waid=' + owner[0] + ':+' + owner[0] + '\n' +
-            'END:VCARD'
-        let buttonMessaged = {
-            contacts: { displayName: Config.ownername, contacts: [{ vcard }] },
-            contextInfo: {
-                externalAdReply: {
-                    title: Config.ownername,
-                    body: 'Touch here.',
-                    renderLargerThumbnail: true,
-                    thumbnailUrl: ``,
-                    thumbnail: log0,
-                    mediaType: 2,
-                    mediaUrl: 'https://github.com/A-J-S-A-L-S-P-A-R-K-Y/AXL-MD',
-                    sourceUrl: `https://wa.me/+` + owner[0] + '?text=Hii bro,I am ' + citel.pushName,
-                },
-            },
-        };
-        return await Void.sendMessage(citel.chat, buttonMessaged, {
-            quoted: citel,
-        });
-
-    }
-)
-
-Secktor.cmd({
-    pattern: "file",
-    desc: "to get extact name where that command is in repo.\nSo user can edit that.",
-    category: "general",
-    react: "✨",
-    filename: __filename
-},
-async(Void, citel, text) => {
- const { commands } = require('../lib');
- let arr = [];
-        const cmd = commands.find((cmd) => cmd.pattern === (text.split(" ")[0].toLowerCase()))
-        if (!cmd) return await citel.reply("*❌No Such commands.*");
-        else arr.push(`*🍁Command:* ${cmd.pattern}`);
-        if (cmd.category) arr.push(`*🧩Type:* ${cmd.category}`);
-        if(cmd.filename) arr.push(`✨FileName: ${cmd.filename}`)
-        return citel.reply(arr.join('\n'));
-
-
-})
-│ │ Owner:- ${Config.ownername}
-│ │ Plugins:- ${commands.length}
-│ │ Users:- ${total}
-│ │ Uptime:- ${runtime(process.uptime())}
-│ │ Ram:- ${formatp(os.totalmem() - os.freemem())}/${formatp(os.totalmem())}
+│ │ Mem:- ${formatp(os.totalmem() - os.freemem())}/${formatp(os.totalmem())}
 │ │ Time:- ${time}
 │ │ Date:- ${date}
 │ ╰──────────────◆
@@ -214,7 +82,7 @@ async(Void, citel, text) => {
     )
     //---------------------------------------------------------------------------
 Secktor.cmd({
-            pattern: "list",
+            pattern: "help",
             desc: "list menu",
             category: "general"
         },
@@ -245,6 +113,42 @@ for (let i = 0; i < commands.length; i++)
         }
     )
     //---------------------------------------------------------------------------
+Secktor.cmd({
+        pattern: "owner",
+        desc: "To find owner number",
+        category: "general",
+        react: "💜",
+        filename: __filename
+    },
+    async(Void, citel) => {
+        const Config = require('../config')
+        const vcard = 'BEGIN:VCARD\n' +
+            'VERSION:3.0\n' +
+            'FN:' + Config.ownername + '\n' +
+            'ORG:;\n' +
+            'TEL;type=CELL;type=VOICE;waid=' + owner[0] + ':+' + owner[0] + '\n' +
+            'END:VCARD'
+        let buttonMessaged = {
+            contacts: { displayName: Config.ownername, contacts: [{ vcard }] },
+            contextInfo: {
+                externalAdReply: {
+                    title: Config.ownername,
+                    body: 'Touch here.',
+                    renderLargerThumbnail: true,
+                    thumbnailUrl: ``,
+                    thumbnail: log0,
+                    mediaType: 2,
+                    mediaUrl: '',
+                    sourceUrl: `https://wa.me/+` + owner[0] + '?text=Hii bro,I am ' + citel.pushName,
+                },
+            },
+        };
+        return await Void.sendMessage(citel.chat, buttonMessaged, {
+            quoted: citel,
+        });
+
+    }
+)
 
 Secktor.cmd({
     pattern: "file",
