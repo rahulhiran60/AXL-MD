@@ -158,8 +158,8 @@ Secktor.cmd({
             quoted: citel,
         });
 
-    }
-)
+  
+
 
 Secktor.cmd({
     pattern: "file",
