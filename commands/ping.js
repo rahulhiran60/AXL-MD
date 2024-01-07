@@ -7,7 +7,7 @@ Secktor.cmd({
         react: "🗿",
         filename: __filename,
     },
-    async(Void, text) => {
+    async(Void,text) => {
         var inital = new Date().getTime();
         const { key } = await Void.sendMessage( {text:'```Checking Ping!```'});
         var final = new Date().getTime();
