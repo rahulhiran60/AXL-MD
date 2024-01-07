@@ -4,14 +4,12 @@ Secktor.cmd({
         pattern: "ping",
         desc: "To check ping",
         category: "general",
-        react: "🗿",
         filename: __filename,
     },
-    async(Void,text) => {
+    async(Void, citel) => {
         var inital = new Date().getTime();
-        const { key } = await Void.sendMessage( {text:'```Checking Ping!```'});
+return await Void.sendMessage(citel.chat, {text: '```Ping!!!```'});
         var final = new Date().getTime();
-       await Secktor.sleep(1000)
-       return await Void.sendMessage({text:'*Pong' + (final - inital) + 'ms*', edit: key});
+       return await Void.sendMessage(citel.chat, {text: '*Pong*\n *' + (final - inital) + ' ms* '});
     }
 );
