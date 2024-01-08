@@ -12,7 +12,7 @@ cmd({
     async(Void, citel, text, { isCreator }) => {
         const { tlang } = require('../lib')
         if (!isCreator) return citel.reply(tlang().owner)
-        let allmodtext = `*𝘼𝙓𝙇 - 𝙈𝘿 𖤍*\n*All Installed Plugins are:-*\n\n`
+        let allmodtext = `*𝘼𝙓𝙇 - 𝙈𝘿 𖤍*\n\n*All Installed Plugins are:-*\n\n`
         allmodtext += await plugins()
         return citel.reply(allmodtext)
 
