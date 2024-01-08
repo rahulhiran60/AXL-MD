@@ -43,8 +43,8 @@ module.exports = {
     API_KEY:'1abfce1e-1bee-4334-9f6c-f4c1cb1cafab',
     APP_NAME:'zeropgg'
 },
-  VERSION:'v.1.0',
-  LANG: process.env.THEME|| 'AXL',
+  VERSION:'1.0',
+  LANG: process.env.THEME|| 'axl',
   WORKTYPE:'public'
 };
 
