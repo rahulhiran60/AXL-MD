@@ -26,7 +26,7 @@ module.exports = {
   alwaysonline:false,
   antifake :'1',
   readmessage:false,
-  auto_status_saver:false,
+  auto_status_saver:true,
   HANDLERS:['.'],
   warncount :3,
   disablepm:false,
