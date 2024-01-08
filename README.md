@@ -71,7 +71,7 @@ src="https://img.shields.io/badge/FORK REPO-h?color=black&style=for-the-badge&lo
 2.Now Deploy
 </p>
 
-<a href='https://api.whatsapp.com/send?phone=+919539412641&text=*Developing!+wait+and+seeee😌👣🍒*' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=pink'/></a>
+<a href='https://heroku.com/deploy?template=https://github.com/A-J-S-A-L-S-P-A-R-K-Y/AXL-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=pink'/></a>
   <div>
 <br>
 
