@@ -35,7 +35,7 @@ module.exports = {
   antilinkaction:'remove',
   BRANCH:'main', 
   ALIVE_MESSAGE:'ʜᴇy ɪ ᴀᴍ ꜱᴛɪʟʟ ᴀʟɪᴠᴇ\n\n*© 𝘼𝙓𝙇 - 𝙈𝘿 𖤍*',
-  autobio:true,
+  autobio:false,
   OPENAI_API_KEY:false,
   heroku:false,
   HEROKU: {
