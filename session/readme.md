@@ -1,1 +1,1 @@
-### up
+### UPLOAD YOUR "creds.json" HERE ☝🏻
