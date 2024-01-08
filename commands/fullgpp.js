@@ -6,7 +6,7 @@ cmd({
 } 
 */
 
-// Created By @Ajxal Ser
+// Created By @Ajxal - Sparky
 // https://wa.me/919539412641
 //-----------------------------------------------------------------------
 const {cmd , tlang , getAdmin} = require("../lib");
