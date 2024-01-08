@@ -1,4 +1,4 @@
-//coded by AJXAL-SPAKRY 
+//coded by AJSAL-SPAKRY 
 const { tlang, cmd,fetchJson,getBuffer, prefix, Config } = require('../lib')
 const fbInfoVideo = require('fb-info-video'); 
 const cheerio = require('cheerio')
