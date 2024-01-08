@@ -1,7 +1,7 @@
 /**
 Credit for this Plugins goes to.
-* @author :  @n i z a m ®™
-* @modified by :  @SamPandey001
+* @author :  @ᴀ ᴊ x ᴀ ʟ -  ꜱ ᴩ ᴀ ʀ ᴋ y™
+* @modified by :  @Ajxal
 
 cmd({
     pattern: "editorpack",
