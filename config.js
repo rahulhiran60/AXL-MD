@@ -44,7 +44,7 @@ module.exports = {
     APP_NAME:'zeropgg'
 },
   VERSION:'v.1.0',
-  LANG: process.env.THEME|| 'SECKTOR',
+  LANG: process.env.THEME|| 'AXL',
   WORKTYPE:'public'
 };
 
