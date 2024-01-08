@@ -45,16 +45,16 @@ Secktor.cmd({
                 let str = `╭────《 ` + fancytext(Config.botname.split(' ')[0], 58) + ` 》─────⊷\n`
                 str +=
                     '' + `│ ╭──────────────◆
-┃✵┃ User:- ${citel.pushName}
-┃✵┃ Theme:- ${tlang().title}
-┃✵┃ Prefix:- [ ${prefix} ]
-┃✵┃ Owner:- ${Config.ownername}
-┃✵┃ Plugins:- ${commands.length}
-┃✵┃ Users:- ${total}
-┃✵┃ Uptime:- ${runtime(process.uptime())}
-┃✵┃ Mem:- ${formatp(os.totalmem() - os.freemem())}/${formatp(os.totalmem())}
-┃✵┃ Time:- ${time}
-┃✵┃ Date:- ${date}
+┃✵┃ *ᴜꜱᴇʀ:-* ${citel.pushName}
+┃✵┃ *ᴛʜᴇᴍᴇ :-* ${tlang().title}
+┃✵┃ *ᴩʀᴇꜰɪx:-* [ ${prefix} ]
+┃✵┃ *ᴏᴡɴᴇʀ:-* ${Config.ownername}
+┃✵┃ *ᴩʟᴜɢɪɴꜱ:-* ${commands.length}
+┃✵┃ *ᴜꜱᴇʀꜱ:-* ${total}
+┃✵┃ *ᴜᴩᴛɪᴍᴇ:-*  ${runtime(process.uptime())}
+┃✵┃ *ʀᴀᴍ:-* ${formatp(os.totalmem() - os.freemem())}/${formatp(os.totalmem())}
+┃✵┃ *ᴛɪᴍᴇ:-* ${time}
+┃✵┃ *ᴅᴀᴛᴇ:-* ${date}
 ┃ ╰──────────────◆
 ╰───────────────⊷\n
 ` + ''
