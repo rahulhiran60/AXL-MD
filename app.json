@@ -1,14 +1,14 @@
 {
   "name": "Axl-Md",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
-  "logo": "https://i.imgur.com/PHL1lqr.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "SecktorBot", "Secktor","SecktorMD","theme bot","multi device","baileys","Sam Pandey"],
+  "logo": "https://i.imgur.com/CN6K5xN.jpg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "AxlBot", "Axl","SecktorMD","theme bot","multi device","baileys","Sam Pandey"],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
   "description": "Name of Bot Owner",
-      "value": "Eren Yeager"
+      "value": "𝘈𝘑𝘟𝘈𝘓-SER"
   },
   "ALIVE_MESSAGE": {
     "description": "Alive message for bot",
@@ -28,7 +28,7 @@
     },
    "THUMB_IMAGE": {
     "description": "THUMBNAIL for bot.",
-     "value": "https://camo.githubusercontent.com/14279dac3151a95fca8ec5bebda435d68d62c49f6aa4f30749f541ee985ad21b/68747470733a2f2f7365636b746f7275736572626f742e6f6e72656e6465722e636f6d2f6d61696e2e6a7067"
+     "value": "https://i.imgur.com/CN6K5xN.jpg"
     },
     "ANTI_BAD_WORD": {
     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
@@ -47,7 +47,7 @@
   "LEVEL_UP_MESSAGE": {
     "description": "Fill the value true if you want bot send Level up message in chat.",
      "required" :false,
-     "value": "true"
+     "value": "false"
     },
       "READ_MESSAGE": {
     "description": "Fill the value true if you want bot to read all messages.",
@@ -67,7 +67,7 @@
        "value": "919539412641"
   },
    "SESSION_ID": {
-    "description": "Please put your SESSION_ID here,if you don't have visit https://secktorbot.herokuapp.com/session "
+    "description": "Please put your SESSION_ID here"
   },
     "OPENAI_API_KEY": {
     "description": "Please put your OPENAI api key here.Get it from beta.openai.com ",
@@ -79,7 +79,7 @@
     "value": "mongodb+srv://ajsalsd:rioHWvIFV7nkxkWz@cluster0.d0hnfmp.mongodb.net/?retryWrites=true&w=majority"
   },
     "THEME": {
-    "description": "Put the theme name you want to use. Avilable themes are SECKTOR,ZEROTWO,NEZUKO,LUFFY,GOKU and many more..",
+    "description": "Put the theme name you want to use. Avilable themes are AXL,SPARKY and many more..",
      "value": "A-X-L"
   },
     "WORKTYPE": {
